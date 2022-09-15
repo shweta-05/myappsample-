@@ -1,2 +1,0 @@
-error logs
-error log2
